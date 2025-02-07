@@ -1,88 +1,78 @@
-### 🚀 Welcome to My GitHub - "deepu"
-
-<h1 align="center">
-🙌 नमस्ते (Namaste), I'm Deepu! 🚀
-</h1>
-
+<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
+  <a href="https://www.youtube.com/channel/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DeepuTechAI"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/deepu"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/deepu"><img width="32px" alt="Dev.to" title="Deepu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/deeputech"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/deeputech"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=AI/ML+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+Web+Developer+%7C+Blockchain+Enthusiast;Big+Data+%7C+Building+AI+Powered+Apps;Exploring+Decentralized+Finance+%28DeFi%29;Always+Eager+to+Collaborate+%26+Innovate!)](https://git.io/typing-svg)
+<br/>
+
+<p>
+Hi 👋, I am **Deepu**, a passionate and dynamic full-stack developer and AI enthusiast with expertise in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Blockchain Technology, and Web Development. I thrive on innovation and love to build impactful solutions.
+
+<div>
+<details>
+  <summary>🧑‍💻 More about me</summary>
+
+- 🔧 I’m currently on a journey to build **cutting-edge AI-driven solutions**.
+
+- 🧐 I’m currently exploring advancements in **deep learning and blockchain integration**.
+
+- 🤝 I’m open to **collaborative AI and ML projects**.
+
+- 💻 All of my projects are available at [deeputech.dev](https://www.linkedin.com/in/deeputech/)
+
+- 🔔 Ask me about **AI research, full-stack web development, blockchain, and data science**
+
+- 📧 Reach me at **contact@deeputech.dev**
+
+</details>
 </p>
 
-## 🌟 Featured Projects
+## 🔥 Github Stats
 
-🚀 **[AI-Powered Crypto Trend Predictor](https://yourprojectlink.com)** - Predict market trends using Deep Learning & Blockchain data.
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
-🤖 **[AI Image Recognition Model](https://yourprojectlink.com)** - Computer vision model for image classification & object detection.
+  <a href="https://github.com/DeepuTech"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DeepuTech&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/DeepuTech"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=DeepuTech&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-🌐 **[Decentralized Voting System](https://yourprojectlink.com)** - Blockchain-powered secure and transparent voting platform.
+## 📘 My top open source projects
 
-💡 **[Big Data Analysis Tool](https://yourprojectlink.com)** - Scalable data processing with Hadoop & Spark.
-
-🎬 **[Classroom Bucket](https://linkinblink.enally.in/)** - Watch videos with strangers, from strangers to friends!
-
-🌎 **[Website](https://enally.in/)** - All My Other Projects.
-
-<br>
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-
-[![wakatime](https://wakatime.com/badge/github/deepu/deepu.svg)](https://wakatime.com/badge/github/deepu/deepu)
-
-![](https://komarev.com/ghpvc/?username=deepu&color=ff0000&label=Welcome) 
-
-### 💡 About Me
-
-- 🎓 **Pursuing B-Tech & Open to Exciting Internships** <br>
-- 💻 **Skilled in AI/ML, Deep Learning, Computer Vision, Blockchain & Full-Stack Web Development** <br>
-- 🔬 **Developing AI/ML Models for Finance, Blockchain, and Big Data Applications** <br>
-- 🤝 **Actively Collaborating on AI, Web3, and Decentralized Finance (DeFi) Projects** <br>
-- 🎯 **2024 Goals: Master AI in Blockchain, Build Scalable ML Models, Contribute to Open Source!** <br>
-
-🚀 **Explore my repositories and let's build something amazing together!** <br>
-
-### 🔗 Connect with Me
-
-<hr/>
-
-[![Instagram Badge](https://img.shields.io/badge/-@deepu-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/deepu)](https://www.instagram.com/deepu) [![Linkedin Badge](https://img.shields.io/badge/-deepu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepu/)](https://www.linkedin.com/in/deepu/) 
-
-### 🛠 Languages & Technologies
-
-<hr/>
-
-| Python | C++ | JavaScript | Solidity | TensorFlow | PyTorch | OpenCV | Pandas | NumPy | MySQL | MongoDB | React | Node.js |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-### 🧰 Tools & Software
-
-<hr/>
-
-| VS Code | Jupyter Notebook | Docker | GitHub | Postman | Metamask | Hadoop | Spark | Flask | FastAPI | Kubernetes | Google Cloud | AWS |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-### 📚 Learning Resources
-
-<hr/>
-
-| Google | Kaggle | GeeksforGeeks | Coursera | YouTube | Udemy | Ethereum Docs | OpenAI | Medium | Deep Learning AI | Towards Data Science |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-### 📊 GitHub Stats
-
-<hr/>
-
-| <img src="https://github-readme-stats.vercel.app/api?username=deepu&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true" width="100%"> | <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepu&layout=compact&theme=blue-green" width="100%"> |
-| --- | --- |
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F37E21&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
+<p align="left">
+    <a href="https://github.com/DeepuTech/AI-VisionBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DeepuTech&repo=AI-VisionBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="AI Vision Bot"></a>
+  <a href="https://github.com/DeepuTech/NLP-Toolkit"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DeepuTech&repo=NLP-Toolkit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="NLP Toolkit"></a>
 </p>
 
-<p style="color: golden;" align="right">Last Update on: 8 Jan 2024</p>
+<p align="left">
+  <a href="https://github.com/DeepuTech?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+<p align="right">
+  <a href="https://top.gg/bot/623481583411658753">
+    <img alt="Deepu Bot" title="Check out Deepu AI Bot" src="https://custom-icon-badges.herokuapp.com/badge/Add%20Deepu-D15E9B.svg?color=%23E05D44&label=Bot&logo=sdfdfsd&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.discord.gg/deepu">
+    <img alt="discord community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
+  <a href="https://github.com/DeepuTech?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FDeepuTech"/></a>
+  <a href="https://github.com/DeepuTech?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DeepuTech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/deepu/">
-![](https://github.com/deepu/deepu/blob/main/assets/footer3.png)
-</a>
+</p>
+
+## 🎮 Try pressing the buttons and come back down
+
+<div style="background:white;">
+<img src="https://toy.aoaoao.me/image" width="300"/> 
+
+<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
+<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
+<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/DeepuTech"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
+  </div>
