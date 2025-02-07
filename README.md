@@ -1,84 +1,75 @@
 <p align="center">
-    <a href="https://github.com/deepu-profile"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/deepu-profile"><img src="https://img.shields.io/github/contributors/deepu-profile?color=blue"></a>
-    <a href="https://github.com/deepu-profile"><img src="https://img.shields.io/github/stars/deepu-profile?style=social"></a>
-    <a href="https://github.com/deepu-profile/network/members"><img src="https://img.shields.io/github/forks/deepu-profile/deepu-profile.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=deepu-profile" alt="visitors"/>
+    <a href="https://github.com/deepu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
+    <a href="https://github.com/deepu/graphs/contributors"><img src="https://img.shields.io/github/contributors/deepu/deepu?color=blue"></a>
+    <a href="https://github.com/deepu"><img src="https://img.shields.io/github/stars/deepu"></a>
+    <a href="https://github.com/deepu/deepu/network/members"><img src="https://img.shields.io/github/forks/deepu/deepu.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=deepu.deepu" alt="visitors"/>
 </p>
 
-## Hey there! I'm Deepu 👋
+---
 
-🚀 **AI/ML Engineer | Full Stack Developer | Blockchain Enthusiast | DevOps Specialist**  
-🔍 Passionate about building intelligent solutions and full-stack applications while leveraging cutting-edge technologies.
-
-> Always keen on solving real-world problems with technology and collaborating with passionate people!
+<h1 align="center">Welcome to Deepu's GitHub</h1>
 
 ---
 
-## 🌟 Focused Areas of Expertise
+[![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5iMDJua2NuYmR5dXZ2cnZ0bHY4dWpkM2ZnNmY2dmx6amVteGJiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P1AZhK9oGcG4o8TSU6/giphy.gif)](#)
 
-- **Artificial Intelligence (AI) & Machine Learning (ML)**  
-  Building scalable machine learning models and intelligent systems.
+> **Highly Passionate Tech Enthusiast:**  
+Deepu focuses on cutting-edge technologies, including:  
+- **Artificial Intelligence (AI)**  
+- **Machine Learning (ML)**  
 - **Natural Language Processing (NLP)**  
-  Automating text processing and language understanding.
-- **Deep Learning (DL) & Computer Vision**  
-  Developing neural networks for image recognition and video processing.
+- **Deep Learning (DL)**  
+- **Computer Vision**  
 - **Full Stack Web Development**  
-  Creating dynamic and responsive web applications.
-- **DevOps & Cloud Computing**  
-  Automating CI/CD pipelines and cloud infrastructure.
-- **Big Data Analytics**  
-  Harnessing insights from large-scale data processing.
+- **DevOps**  
+- **Big Data**  
 - **Blockchain Technology**  
-  Exploring decentralized applications and smart contracts.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
-### **Programming Languages:**
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-
-### **Data Science & AI:**
+![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=fff)&nbsp;  
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-555?style=flat&logo=tensorflow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-555?style=flat&logo=pytorch)&nbsp;
-
-### **Web Development:**
 ![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-555?style=flat&logo=django)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)  
+
 ![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Blockchain](https://img.shields.io/badge/-Blockchain-555?style=flat&logo=blockchain)&nbsp;
+![Big Data](https://img.shields.io/badge/-Big%20Data-555?style=flat&logo=bigdata)&nbsp;  
 
-### **DevOps & Cloud:**
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-555?style=flat&logo=amazon-aws)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-555?style=flat&logo=github-actions)&nbsp;
-
-### **Blockchain:**
-![Solidity](https://img.shields.io/badge/-Solidity-555?style=flat&logo=solidity)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-555?style=flat&logo=ethereum)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes)&nbsp;  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
 
 ---
 
-## 📊 GitHub Activity Graph
+## 📈 GitHub Activity Graph:
+
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/deepu-profile#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=deepu-profile&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/deepu-profile#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=deepu-profile&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/deepu-profile#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu-profile&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/deepu-profile#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu-profile&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/deepu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=deepu&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/deepu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=deepu&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/deepu#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/deepu#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepu&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/deepu-profile#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu-profile&theme=default"/></a><a href="https://github.com/deepu-profile#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu-profile&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/deepu#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu&theme=default"/></a><a href="https://github.com/deepu#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/deepu-profile#gh-light-mode-only"><img src="https://raw.githubusercontent.com/deepu-profile/deepu-profile/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/deepu-profile#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/deepu-profile/deepu-profile/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/deepu#gh-light-mode-only"><img src="https://raw.githubusercontent.com/deepu/deepu/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/deepu#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/deepu/deepu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
+
 
