@@ -4,7 +4,7 @@
 ### The GitHub account "03prashantpk" has been flagged due to suspicious login activity. A request for reinstatement has been submitted. In the interim, this alternate account will be utilized.
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Prashant Kumar!<br>
+नमस्ते (Namaste), I Am PrashaKumar!<br>
 </h1>
 
 
