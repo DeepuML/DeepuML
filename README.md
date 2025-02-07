@@ -9,12 +9,18 @@
 </p>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Passionate+Tech+Enthusiast;Full-Stack+Web+Developer;Machine+Learning+%26+Blockchain+Explorer;Building+AI-Powered+Finance+and+Blockchain+Apps;Always+Eager+to+Collaborate+%26+Innovate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=AI/ML+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+Web+Developer+%7C+Blockchain+Enthusiast;Big+Data+%7C+Building+AI+Powered+Apps;Exploring+Decentralized+Finance+%28DeFi%29;Always+Eager+to+Collaborate+%26+Innovate!)](https://git.io/typing-svg)
 </p>
 
 ## 🌟 Featured Projects
 
-🚀 **[UniChat - App](https://unichatapp.vercel.app)** - University App - Health, Admission, Gallery.
+🚀 **[AI-Powered Crypto Trend Predictor](https://yourprojectlink.com)** - Predict market trends using Deep Learning & Blockchain data.
+
+🤖 **[AI Image Recognition Model](https://yourprojectlink.com)** - Computer vision model for image classification & object detection.
+
+🌐 **[Decentralized Voting System](https://yourprojectlink.com)** - Blockchain-powered secure and transparent voting platform.
+
+💡 **[Big Data Analysis Tool](https://yourprojectlink.com)** - Scalable data processing with Hadoop & Spark.
 
 🎬 **[Classroom Bucket](https://linkinblink.enally.in/)** - Watch videos with strangers, from strangers to friends!
 
@@ -30,10 +36,10 @@
 ### 💡 About Me
 
 - 🎓 **Pursuing B-Tech & Open to Exciting Internships** <br>
-- 💻 **Skilled in Full-Stack Development (MERN STACK), AI, Blockchain, Digital Marketing & SEO** <br>
-- 🔬 **Developing AI/ML Models for Finance and Blockchain Applications** <br>
-- 🤝 **Actively Collaborating on Web, AI, and Blockchain Innovations** <br>
-- 🎯 **2024 Goals: Secure a Tech Role, Deepen AI/Blockchain Knowledge, Contribute to Open Source!** <br>
+- 💻 **Skilled in AI/ML, Deep Learning, Computer Vision, Blockchain & Full-Stack Web Development** <br>
+- 🔬 **Developing AI/ML Models for Finance, Blockchain, and Big Data Applications** <br>
+- 🤝 **Actively Collaborating on AI, Web3, and Decentralized Finance (DeFi) Projects** <br>
+- 🎯 **2024 Goals: Master AI in Blockchain, Build Scalable ML Models, Contribute to Open Source!** <br>
 
 🚀 **Explore my repositories and let's build something amazing together!** <br>
 
@@ -47,22 +53,22 @@
 
 <hr/>
 
-| HTML | CSS | JavaScript | Python | C++ | PHP | MySQL | SCSS | Selenium | React | TypeScript | TensorFlow | Solidity |
+| Python | C++ | JavaScript | Solidity | TensorFlow | PyTorch | OpenCV | Pandas | NumPy | MySQL | MongoDB | React | Node.js |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### 🧰 Tools & Software
 
 <hr/>
 
-| VS Code | GitHub | Terminal | GitBash | WordPress | Oracle 10g | Bootstrap | PyCharm | Ubuntu | Postman | MongoDB | Jupyter Notebook | Metamask |
+| VS Code | Jupyter Notebook | Docker | GitHub | Postman | Metamask | Hadoop | Spark | Flask | FastAPI | Kubernetes | Google Cloud | AWS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### 📚 Learning Resources
 
 <hr/>
 
-| Google | W3Schools | GeeksforGeeks | Udemy | Codepen | YouTube | Coursera | OpenAI | Canva | MidJourney | Kaggle | Ethereum Docs |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Google | Kaggle | GeeksforGeeks | Coursera | YouTube | Udemy | Ethereum Docs | OpenAI | Medium | Deep Learning AI | Towards Data Science |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### 📊 GitHub Stats
 
