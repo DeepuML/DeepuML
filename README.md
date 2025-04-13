@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Scientists%20study%20the%20world%20as%20it%20is%3B%20engineers%20create%20the%20world%20that%20has%20never%20been.%E2%80%9D%20%E2%80%94%20Theodor%20von%20K%C3%A1rm%C3%A1n" />
 </p>
 ---
 
