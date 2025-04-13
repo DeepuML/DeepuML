@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Deependra Gangwar</h1>
-<h3 align="center">🚀 AI | ML | DL | NLP | Blockchain | Full-Stack | DevOps | Big - data | Research</h3>
+# Deependra Gangwar's GitHub Profile
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=AI+Researcher+%7C+Full-Stack+Developer;Blockchain+Innovator+%7C+Data+Enthusiast;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+## Hi 👋, I'm Deependra Gangwar
+🚀 AI | ML | DL | NLP | Blockchain | Full-Stack | DevOps | Big Data | Research
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=AI+Researcher+%7C+Full-Stack+Developer;Blockchain+Innovator+%7C+Data+Enthusiast;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80)
 
 ---
 
 ### 🧠 About Me
 
-- 🎓Pre - Final year student passionate about **innovative problem-solving using AI**
+- 🎓 Pre-final year student passionate about **innovative problem-solving using AI**
 - 💡 Currently working on:
   - Malware detection via UI behavior (Computer Vision)
   - Real-time crypto market trend prediction
@@ -68,8 +68,9 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Scientists%20study%20the%20world%20as%20it%20is%3B%20engineers%20create%20the%20world%20that%20has%20never%20been.%E2%80%9D%20%E2%80%94%20Theodor%20von%20K%C3%A1rm%C3%A1n" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=You%20have%20the%20right%20to%20work%2C%20but%20never%20to%20the%20fruit%20of%20work.%20Let%20not%20the%20fruit%20of%20action%20be%20your%20motive%2C%20nor%20let%20your%20attachment%20be%20to%20inaction.%20%E2%80%93%20Bhagavad%20Gita%20(2.47)%20In%20the%20realm%20of%20engineering%20and%20innovation%2C%20the%20process%20of%20creation%20is%20a%20continuous%20journey.%20Focus%20on%20the%20work%2C%20embrace%20the%20challenges%2C%20and%20let%20the%20results%20evolve%20naturally./" />
 </p>
+
 ---
 
 ### 🆕 What's New?
@@ -120,3 +121,4 @@
 <p align="center">
   <i>“Dream Big. Build Bigger.”</i>
 </p>
+
