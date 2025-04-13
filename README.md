@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓Pre - Final year student passionate about **innovative problem-solving using AI**
+- 🎓 Pre-Final year student passionate about **innovative problem-solving using AI**
 - 💡 Currently working on:
   - Malware detection via UI behavior (Computer Vision)
   - Real-time crypto market trend prediction
@@ -120,4 +120,3 @@
 <p align="center">
   <i>“Dream Big. Build Bigger.”</i>
 </p>
-
