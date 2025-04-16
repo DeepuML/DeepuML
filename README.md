@@ -61,7 +61,7 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:deependragangwar.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:deependra74678@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/deependra-gangwar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
