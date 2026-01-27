@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deependra Gangwar</h1>
-<h3 align="center">🚀 AI | ML | DL | NLP | Blockchain | Full-Stack | DevOps | Big - data | Research</h3>
+<h3 align="center">🚀 AI | ML | DL | NLP | Full-Stack | DevOps | Big - data | Research</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=AI+Researcher+%7C+Full-Stack+Developer;Blockchain+Innovator+%7C+Data+Enthusiast;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
